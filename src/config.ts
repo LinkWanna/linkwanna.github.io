@@ -2,7 +2,7 @@ export default {
   // 网站标题
   Title: '韩小韩博客',
   // 网站地址
-  Site: 'https://www.vvhan.com',
+  Site: 'https:linkwanna.github.io',
   // 网站副标题
   Subtitle: '不曾与你分享的时间,我在进步.',
   // 网站描述
@@ -10,7 +10,7 @@ export default {
   // 网站作者
   Author: 'LinkWanna',
   // 作者头像
-  Avatar: '',
+  Avatar: '/assets/images/avatar.jpg',
   // 网站座右铭
   Motto: '运气是计划之外的东西.',
   // Cover 网站缩略图
