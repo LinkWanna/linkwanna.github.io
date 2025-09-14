@@ -21,7 +21,7 @@ GICv3 是 GIC 的第三个版本，比起 GICv2 提供了更强大的功能和�
 
 下面是官方的 GICv3 架构图：
 
-![](/assets/images/blog/arm-gicv3-basic/GICv3_arch.png)
+![](/assets/images/blog/arm-gicv3-basic/GICv3_arch.webp)
 
 
 从 GICv3 的**组件视角**，可以发现 GICv3 主要由以下几个部分组成：
@@ -71,7 +71,7 @@ Affinity 是一个 64 位的值，结构如下：
 
 ## GICv3 的中断处理流程
 
-![](/assets/images/blog/arm-gicv3-basic/GICv3_interrupt_flow.png)
+![](/assets/images/blog/arm-gicv3-basic/GICv3_interrupt_flow.webp)
 
 1. **中断产生（Generate interrupt）**：中断由外设或软件触发。
 
